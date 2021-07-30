@@ -37,7 +37,7 @@ function rigRngBox() {
 	input.step = 0.001;
 	input.value = 0.5;
 	input.id = "lolinput";
-	document.getElementsByClassName("styles__headerRight___1bkCl-camelCase")[0].appendChild(input);
+	document.getElementsByClassName("styles__headerRight___1R77a-camelCase")[0].appendChild(input);
 
 	Math.random = function() {
 		return input.value;
