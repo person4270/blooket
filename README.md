@@ -1,6 +1,4 @@
-# blooket-hax
-blooket bad so i made hacks
-
+# blooket
 run this before you join
 
 allows for replacing the questions and rigging the chests by rigging the random number generator through the textbox in the corner
